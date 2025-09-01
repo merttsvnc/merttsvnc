@@ -1,14 +1,25 @@
+![Header](./banner.png)
+
 # Hi there, I'm Mert! 👋
 
-I'm a Software QA Engineer passionate about test automation, quality assurance, and building scalable solutions. I enjoy exploring new tools, methodologies, and practices. Recently, I’ve also started an e-commerce journey with Shopify, combining my technical background with entrepreneurship.
+I'm a Software QA Engineer passionate about test automation, quality assurance, and building scalable solutions. I enjoy exploring new tools, methodologies, and practices. My current focus is on QA automation, fullstack development, and leveraging AI for smarter workflows.  
 
 ---
 
 ## 👨‍💻 About Me
-- **QA & Automation Enthusiast** – I specialize in testing frameworks and automation practices.  
-- **E-Commerce Explorer** – Currently building my first Shopify-based store.  
-- **Tech Learner** – Always curious about new tools, AI, and modern development stacks.  
-- **Multilingual Collaborator** – I often work across English, Turkish, and Japanese contexts.  
+- **QA & Automation Enthusiast** – Experienced with web and mobile testing frameworks.  
+- **Fullstack Learner** – Building hands-on applications with React, Node.js, and Supabase.  
+- **AI Explorer** – Experimenting with local LLMs and workflow automation.  
+- **Multilingual Collaborator** – Comfortable working across English, Turkish, and Japanese contexts.  
+
+---
+
+## 🚀 Projects & Interests
+
+- **Fullstack Development** – Currently working on a sports tournament management platform with features like athlete data import, automatic categorization, match fixtures, live scoring, and referee dashboards.  
+- **QA Automation** – Designing end-to-end regression tests with Cypress and Maestro, ensuring cross-platform quality.  
+- **AI Workflows** – Building n8n automations that connect local LLMs (Ollama, DeepSeek, Qwen) for QA scenario generation and customer support chatbots.  
+- **E-Commerce (Side Project)** – Exploring Shopify-based workflows to understand e-commerce automation and scaling challenges.  
 
 ---
 
@@ -41,7 +52,7 @@ I'm a Software QA Engineer passionate about test automation, quality assurance, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![Tunnelblick](https://img.shields.io/badge/Tunnelblick-1D6F93?logo=openvpn&logoColor=white)  
 
-### 🛒 E-Commerce  
+### 🛒 E-Commerce (Side Project)  
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)  
 ![Liquid](https://img.shields.io/badge/Liquid-1C1C1C?logo=shopify&logoColor=white)  
 
@@ -59,6 +70,7 @@ I'm a Software QA Engineer passionate about test automation, quality assurance, 
 
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=merttsvnc&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merttsvnc&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=merttsvnc&theme=tokyonight)  
 
 ---
 
