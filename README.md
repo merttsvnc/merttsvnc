@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there, I'm Mert! 👋
 
-<!--
-**merttsvnc/merttsvnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software QA Engineer passionate about test automation, quality assurance, and building scalable solutions. I enjoy exploring new tools, methodologies, and practices. Recently, I’ve also started an e-commerce journey with Shopify, combining my technical background with entrepreneurship.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- **QA & Automation Enthusiast** – I specialize in testing frameworks and automation practices.  
+- **E-Commerce Explorer** – Currently building my first Shopify-based store.  
+- **Tech Learner** – Always curious about new tools, AI, and modern development stacks.  
+- **Multilingual Collaborator** – I often work across English, Turkish, and Japanese contexts.  
+
+---
+
+## 🛠️ Technologies & Tools  
+
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+### ⚙️ Backend & Database  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+
+### ✅ QA & Testing  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)  
+![Maestro](https://img.shields.io/badge/Maestro-008080?logo=android&logoColor=white)  
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)  
+
+### 🔄 Automation & DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?logo=n8n&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Tunnelblick](https://img.shields.io/badge/Tunnelblick-1D6F93?logo=openvpn&logoColor=white)  
+
+### 🛒 E-Commerce  
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)  
+![Liquid](https://img.shields.io/badge/Liquid-1C1C1C?logo=shopify&logoColor=white)  
+
+### 🤖 AI & LLM  
+![Ollama](https://img.shields.io/badge/Ollama-101010?logo=ollama&logoColor=white)  
+![LM Studio](https://img.shields.io/badge/LM_Studio-5A67D8?logo=ai&logoColor=white)  
+![DeepSeek](https://img.shields.io/badge/DeepSeek-FF4500?logo=openai&logoColor=white)  
+![Qwen](https://img.shields.io/badge/Qwen-2E8B57?logo=alibabacloud&logoColor=white)  
+![Gemma](https://img.shields.io/badge/Gemma-DC143C?logo=google&logoColor=white)  
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?logo=google&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=merttsvnc&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merttsvnc&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)  
+[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](#)  
+[![Shopify](https://img.shields.io/badge/Shopify_Store-96BF48?logo=shopify&logoColor=white)](https://www.tranquilblissfulhome.com/)  
+
+---
